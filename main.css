@@ -1,0 +1,36 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    background-color: rgb(206, 238, 255);
+    color: rgb(0, 0, 0);
+}
+
+a {
+    color: aliceblue;
+}
+
+a:visited {
+    color: rgb(59, 83, 239);
+}
+
+a:hover, a:active {
+    color: #eee;
+}
+
+.title-image2 {
+    width: 54.5%;
+    position: absolute;
+    right: 0%;
+    top: 140%;
+}
+table, tr, th, td, caption {
+
+    text-align: center;
+    margin-left: 5%;
+    border: 1px solid rgb(244, 241, 241);
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;   
+}
